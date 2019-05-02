@@ -1,0 +1,16 @@
+.reply-item {
+	position:relative;
+	border: 1px solid black;
+	width: 500px;
+}
+
+.reply-delete {
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+.reply-item .reply-userid {
+	font-weight: 700;
+	margin-right: 10px;
+}
